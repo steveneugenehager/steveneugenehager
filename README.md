@@ -7,10 +7,9 @@
 ### 🌱 I’m currently learning or refreshing on:
 - Python
 - Google Cloud Platform
-### 📫 How to reach me ...
+### 📫 How to reach me:
    -  LinkedIn - www.linkedin.com/in/stevenehager
    -  Facebook - Steven.E.Hager (Steve Hager)
-   -  Email - steven.eugene.hager@gmail.com
 <!---
 steveneugenehager/steveneugenehager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
