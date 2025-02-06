@@ -1,0 +1,4 @@
++============
++ Variables
++============
+  Use underscore to separate words in a variable name. For example, "customer_info" (better) versus "customerinfo". ( Using underscores typically improves clarity in variable naming in programming.)
