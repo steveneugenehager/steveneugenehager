@@ -10,3 +10,5 @@ Date       | Resource                                           | Tasks, Content
            |                                                    | - Variable naming rules and conventions
            |                                                    | - Intro to string methods, "f-strings", whitespace.
 -----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
+2025-02-07 | "Python Crash Course" (book)                       | Chapter 2 "Variables and Simple Data Types" - Continued
+           |                                                    | - Intro to numbers
