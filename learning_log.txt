@@ -15,4 +15,5 @@ Date       | Resource                                           | Tasks, Content
            |                                                    | - Review "The Zen of Python"
            |                                                    | Chapter 3 - Introducing Lists
            |                                                    | - append(), del, pop()
+           |                                                    | - sort(), sorted(), reverse(), len(), and index errors 
 
