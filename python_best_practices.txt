@@ -2,3 +2,4 @@
 + Variables
 +============
   Use underscore to separate words in a variable name. For example, "customer_info" (better) versus "customerinfo". ( Using underscores typically improves clarity in variable naming in programming.)
+  Use all capital letters in its name to indicate a variable should be treated as a constant and never be changed  (Example MAX_CONNECTIONS = 5 )
