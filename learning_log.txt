@@ -14,3 +14,5 @@ Date       | Resource                                           | Tasks, Content
            |                                                    | - Intro to numbers & comments
            |                                                    | - Review "The Zen of Python"
            |                                                    | Chapter 3 - Introducing Lists
+           |                                                    | - append(), del, pop()
+
