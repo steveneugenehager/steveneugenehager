@@ -1,0 +1,45 @@
+Category        Skill   Roles                           Beginner        Intermediate        Advanced                 Learning Resource(s) Used                     Personal Projects              Professional Experience
+                        Applicable                     (Exposure)       (Self Study        (Certification or
+                        To                                               & projects)        course completion)  
+ 
+Programming     Python  Data Engineer                                   In Progress                                   "Python Crash Course" (ebook/O'reilly)                                       Big Data DBA - automation scripts (monitor systems, recognize new users, synch data dictionaries)
+                        ETL Developer                                  2025-02-07                                                                                                                  Systems Engineer - used to consume API for historical commodity pricing (in JSON) and transform into load-ready format.   
+                        Systems Administrator
+                        Cloud Engineer
+                        DevOps Engineer
+                        Automation Engineer
+                        Data Scientist
+                        Data Analyst
+                        Software Engineer
+                        Software Developer
+                        Web Developer
+                        Machine Learning Engineer
+                        Research Scientist
+                        Embedded Systems Engineer
+
+
+
+
+Appendix A
+----------
+A skill set refers to a combination of skills, abilities, knowledge, and competencies that an individual possesses. It encompasses both hard skills (specific, teachable abilities or knowledge sets) and soft skills (interpersonal or people skills, such as communication and teamwork). 
+
+Types of Skills in a Skill Set:
+Hard Skills: These are technical skills that are often quantifiable and can typically be learned through formal education, training, or practice. Examples include:
+
+Programming languages (e.g., Python, Java)
+Data analysis (e.g., Excel, SQL)
+Graphic design (e.g., Adobe Photoshop)
+Language proficiency (e.g., spoken languages)
+Soft Skills: These are interpersonal skills that relate to how a person interacts with others and handles situations. Examples include:
+
+Communication skills
+Problem-solving abilities
+Time management
+Teamwork and collaboration
+Adaptability
+Importance of a Skill Set:
+Job Readiness: Having a relevant skill set is crucial for employability and success in a particular job or industry.
+Career Development: A well-defined skill set can help individuals identify areas for improvement and guide their professional development.
+Adaptability: A diverse skill set allows individuals to adapt to changing job markets and industries.
+In summary, a skill set is a key aspect of an individual's qualifications and competitive advantage in the workforce. It helps define what they can contribute to a team or organization.
