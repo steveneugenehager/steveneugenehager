@@ -1,0 +1,12 @@
+-----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Date       | Resource                                           | Tasks, Content Covered
+-----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
+2025-02-06 | "Python Crash Course" (book)                       | Chapter 1 "Getting Started"
+           |                                                    | - Running python in my GCP cloud VM
+           |                                                    | - Installed Python on my Windows Laptop
+           |                                                    | - Installed and used VS Code on my Windows Laptop. Added python extension.
+           |                                                    | - Running python on my Windows Laptop
+           |                                                    | Chapter 2 "Variables and Simple Data Types"
+           |                                                    | - Variable naming rules and conventions
+           |                                                    | - Intro to string methods, "f-strings", whitespace.
+-----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
