@@ -1,0 +1,158 @@
+-----------
+In Progress
+-----------
+Python Programming
+ - "Python Crash Course" (book)
+ 
+-----------
+Up Next
+-----------
+Python Programming
+ - Skillsoft (Precipio)
+    - "Python - Beginner - Skill Benchmarks" playlist - a series of skill benchmarks to test myself on Python basics
+
+- PluralSight 
+    - Courses
+      - Beginner
+        - Core Python 3: Hashing and More Collections
+        - Core Python 3: The Numeric Tower, Conversion, and Operators
+        - Python Best Practices for Code Quality
+        - Importing Text Files in Python
+        - Working with Files in Python
+        - Merging Data from Different Sources in Python
+        - Reading, Writing and Parsing JSON Files in Python
+        - Reading and Writing CSV Files in Python
+        - Cleaning String Data in Python
+        - Cleaning and Working with Dataframes in Python
+        - Validate Data Cleanliness Using Asserts in Python
+        - Manage Invalid, Duplicate, and Missing Data in Python
+        - Implementing Policy for Missing Values in Python
+        - Exploratory Data Analysis with Complex Data Sets in Python
+        - Up and Running with Pandas
+        - Plotting Data with Pandas
+        - Pandas Arrays and Data Structures
+        - Cleaning Data with Pandas
+        - DataFrames with Pandas
+        - Pandas Functions
+        - Understanding Series Index and Values in pandas
+        - Index Objects with Pandas
+        - Getting Started with NumPy
+        - Operations on Arrays with NumPy
+        - Accessing Arrays with NumPy
+        - Getting Started with Matplotlib
+        - Statistical Analysis with Matplotlib
+        - Foundations of PyTorch   ( an open-source machine learning library developed by Facebook )
+        - Scraping Your First Web Page with Python
+        - Exploring Web Scraping with Python
+        - Crawling the Web with Python 3 and Scrapy 2
+        - Scraping Media from the Web with Python
+        - Python Functions and Libraries for Cybersecurity
+      - Intermediate
+        - Python 3 Best Practices
+        - Building a REST API with Python 3
+        - Python Requests Playbook
+        - Working with Databases in Python 3
+        - Python 3 Regex Playbook
+        - Working with Files in Python 3
+        - Unit Testing with Python 3
+        - Testing in Python 3
+        - Debugging in Python
+        - Classes and Object-oriented Programming in Python 3
+        - Core Python 3: Organizing Larger Programs
+        - Core Python 3: Introspection
+        - Core Python 3: Robust Resource and Error Handling
+        - Development Environments and Package Management in Python 3
+        - Python for Linux System Administration
+        - Python 3 Scripting for System Administrators
+        - Log File Analysis with Python
+        - Advanced Web Scraping Tactics: Python 3 Playbook
+        - Normalize Data to Make It Appropriate for an Analysis with Pandas
+        - Developing Spark Applications with Python & Cloudera
+        - Natural Language Processing with PyTorch
+      - Advanced
+        - Design Patterns in Python 3
+        - Python Collections
+        - Python 3 Decorators
+        - Core Python: Metaclasses and Allocation
+        - Core Python 3: Advanced Flow Control
+        - Core Python 3: Custom Attributes and Descriptors
+        - Python 3 Performance
+
+    - Labs
+      - Guided: Python Basics and Data Structures (USE THIS AS A PILOT TO SEE HOW PLURALSIGHT'S LABS WORK.)
+      - Guided: Exception Handling and Modular Programming in Python
+      - Guided: Regex Foundations and Essentials
+      - Guided: Regex Patterns for Practical Solutions
+      - Guided: Test Driven Development While Building a Set Class - Python 3
+      - Decoding Sensor Data Using Python
+      - Build a Personal Budget Report with Python Collections and Iterables
+      - Building Baseball Data Visualizations with Python
+      - Guided: Build a Library System with Python      
+      - Guided: Creating a Word Guessing Game Using Python
+      - Build a Job Board with Python & Flask
+      - Guided: Build a CLI File Organizer in Python
+      - Build a Static Site Generator with Python
+      - Test a Network Using Python
+    - Skill IQs
+      - Python 3
+      - Python Core Language
+      - Python Data Essentials
+      - Cleaning Data with Python
+      - Python: Cleaning Data
+      - Python: Data Wrangling
+      - Data Visualization with Python
+      - Importing Data with Python
+      - Python: Importing Data
+      - Interpreting Data with Python
+      - Python: Matplotlib
+      - Python: NumPy
+      - Python: Pandas Essentials
+      - Python: Advanced Pandas
+      - Python: Exploratory Data Analysis
+      - Python for Data Analysis
+      - Web Scraping with Python
+      - Python for Cyber Defense
+      - Python for Cyber Offense
+
+
+ - Udemy
+ - LeetCode - Make it a goal to periodically code a presented problem. Ensure my skills are prepared to solve arbitrary problems.
+
+
+BigQuery
+Spanner
+BigTable
+Apache Spark
+MongoDB
+Cassandra
+
+------------------------------
+Certifications to obtain
+------------------------------
+  - Intermediate
+    - Associate Google Cloud Engineer
+    - Red Hat Certified System Administrator (RHCSA)
+  - Advanced
+    - Google Professional Data Engineer
+    - Google Professional Cloud Developer
+    - Google Professional Cloud DevOps Engineer
+    - Google Professional Cloud Architect
+    - DA0-001: CompTIA Data+
+    - Certified Secure Software Lifecycle Professional (CSSLP)
+    - CLF-C02: AWS Certified Cloud Practitioner
+    - DVA-C02: AWS Certified Developer - Associate
+    - DOP-C02: AWS Certified DevOps Engineer – Professional
+    - AZ-900: Microsoft Azure Fundamentals
+    - DP-900: Microsoft Azure Data Fundamentals
+
+
+
+------------------------------
+Things to Ponder/Consider/Plan
+------------------------------
+Raspberry Pi (build for a DIY home project)
+Using ChatGPT /  Gemini most effectively
+Buy a MacBook Pro (Use macOS as primary developer device)
+Go Programming (are there jobs? Would this be more interesting than Java/Kotlin?)
+
+
