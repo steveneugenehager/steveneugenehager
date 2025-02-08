@@ -1,6 +1,15 @@
 -----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
 Date       | Resource                                           | Tasks, Content Covered
 -----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
+2025-02-07 | "Python Crash Course" (book)                       | Chapter 2 "Variables and Simple Data Types" - Continued
+           |                                                    | - Intro to numbers & comments
+           |                                                    | - Review "The Zen of Python"
+           |                                                    | Chapter 3 - Introducing Lists
+           |                                                    | - append(), del, pop()
+           |                                                    | - sort(), sorted(), reverse(), len(), and index errors 
+           |                                                    | Chapter 4 - Working with Lists
+           |                                                    | - indentation, for loops, common indentation/logic errors
+-----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
 2025-02-06 | "Python Crash Course" (book)                       | Chapter 1 "Getting Started"
            |                                                    | - Running python in my GCP cloud VM
            |                                                    | - Installed Python on my Windows Laptop
@@ -10,10 +19,4 @@ Date       | Resource                                           | Tasks, Content
            |                                                    | - Variable naming rules and conventions
            |                                                    | - Intro to string methods, "f-strings", whitespace.
 -----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
-2025-02-07 | "Python Crash Course" (book)                       | Chapter 2 "Variables and Simple Data Types" - Continued
-           |                                                    | - Intro to numbers & comments
-           |                                                    | - Review "The Zen of Python"
-           |                                                    | Chapter 3 - Introducing Lists
-           |                                                    | - append(), del, pop()
-           |                                                    | - sort(), sorted(), reverse(), len(), and index errors 
 
