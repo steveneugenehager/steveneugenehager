@@ -10,6 +10,10 @@
   Use all capital letters in its name to indicate a variable should be treated as a constant and never be changed  (Example MAX_CONNECTIONS = 5 )
   List variable names should be plural (e.g., items, stores, dates) since they are intended for groups of things.
   For the temporary variable in a for loop that will be associated with each value in the list use a meaningful name that represents a single item from the list. Example: for dog in dogs:
++============
++ White Space
++============
+  - To group parts of your program visually, use a blank line between parts.
 +===================
 + IDE / code editor
 +===================
