@@ -10,10 +10,16 @@
   Use all capital letters in its name to indicate a variable should be treated as a constant and never be changed  (Example MAX_CONNECTIONS = 5 )
   List variable names should be plural (e.g., items, stores, dates) since they are intended for groups of things.
   For the temporary variable in a for loop that will be associated with each value in the list use a meaningful name that represents a single item from the list. Example: for dog in dogs:
+  - Variable names 
+    - Boolean - Use prefixes commonly associated with boolean values, such as is_, has_, can_, or should_. This makes it clear that the variable is a boolean without adding ambiguous suffixes, e.g., is_visible instead of visible_ind.
 +============
 + White Space
 +============
   - To group parts of your program visually, use a blank line between parts.
++=============
++ Conditionals
++=============
+  - To improve readability, use parentheses around the individual tests. For example, "if (a > b) and (a < d ):" (is better than "if a > b and a < d:").
 +===================
 + IDE / code editor
 +===================
