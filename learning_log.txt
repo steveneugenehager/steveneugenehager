@@ -4,6 +4,10 @@ Date       | Resource                                           | Tasks, Content
 2025-02-09 | "Python Crash Course" (book)                       | Chapter 5 - "if Statements"
            |                                                    | - if, else, elif, items in lists, looping through lists, checking for equality, inequality, nonequality.
            |                                                    | Chapter 6 - Dictionaries
+           |                                                    | - how to define a dictionary; how to work retrieve the items, keys, and values stored in a dictionary; 
+           |                                                    | - how to access and modify individual elements in a dictionary; and how to loop through all of the information in a dictionary;
+           |                                                    | - looping through a dictionary’s key-value pairs, its keys, and its values;
+           |                                                    | - how to nest multiple dictionaries in a list, nest lists in a dictionary, and nest a dictionary inside a dictionary;
 -----------+----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------------
 2025-02-08 | "Python Crash Course" (book)                       | Chapter 4 - Working with Lists - Continued
            |                                                    | - range(), list comprehensions, slices, copying lists, tuples, PEP 8 style guidelines
