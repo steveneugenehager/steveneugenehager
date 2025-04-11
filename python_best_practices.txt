@@ -29,6 +29,9 @@
 +===================
 + Functions
 +===================
+  - You’ll often see the generic parameter name *args, which collects arbitrary positional arguments.
+  - You’ll often see the parameter name **kwargs used to collect nonspecific keyword arguments.
+  - Use **dictionary_name at the end of the argument list to pass an arbitrary number of key/value pairs.
   - Use "from typing import List" to use type hints. For example:  def function_name(argument_name: List[str]) -> None:
   - Functions that do not return a value
       1) Use the type hint for the return value. Example: def function_name(argument_name: List[str]) -> None:
