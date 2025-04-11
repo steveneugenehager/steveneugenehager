@@ -26,3 +26,13 @@
 +===================
  - Configure your editor so it always inserts four spaces each time you press the TAB key.
  - Configure your editor so it shows a vertical guideline to help you follow the 79-character limit. (My preference is two rulers, one at 70 and another at 80.)
++===================
++ Functions
++===================
+  - Use "from typing import List" to use type hints. For example:  def function_name(argument_name: List[str]) -> None:
+  - Functions that do not return a value
+      1) Use the type hint for the return value. Example: def function_name(argument_name: List[str]) -> None:
+      2) Use the docstring:
+            """ 
+            This function does not return a value.
+            """
