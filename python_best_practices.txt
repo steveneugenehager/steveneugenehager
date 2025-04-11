@@ -29,6 +29,9 @@
 +===================
 + Functions
 +===================
+  - When importing functions, 
+        - preferably import ONLY the function or functions you want, or  (Example: "from module_name import function_name1 [,function_name2, ...]" and calls to functions like "function_name(args)"
+        - import the entire module and use the dot notation. (Example: "import module_name" and calls to functions like "module_name.function_name(args)"
   - You’ll often see the generic parameter name *args, which collects arbitrary positional arguments.
   - You’ll often see the parameter name **kwargs used to collect nonspecific keyword arguments.
   - Use **dictionary_name at the end of the argument list to pass an arbitrary number of key/value pairs.
